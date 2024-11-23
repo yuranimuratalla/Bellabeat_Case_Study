@@ -1,9 +1,13 @@
 # Bellabeat Case Study
 
 Author: Yurani Muratalla
+
 Date: November 16, 2024
+
 Email: yuranimuratalla1@gmail.com
+
 [Github](https://github.com/users/yuranimuratalla/projects/1/)
+
 [LinkedIn](https://www.linkedin.com/in/yuranimuratalla/)
 
 ## About the Project
